@@ -1,11 +1,12 @@
 fastapi==0.110.0
 uvicorn==0.27.1
-sqlalchemy==2.0.27
 scikit-learn==1.4.0
 pandas==2.2.0
 requests==2.31.0
+sqlalchemy==2.0.27
+apscheduler==3.10.4
 python-telegram-bot==20.7
-flask==3.0.0
-twilio==8.11.0
-pydantic==2.6.1
-python-multipart==0.0.9
+twilio==8.12.0
+pyzbar==0.1.9
+pillow==10.2.0
+qrcode==8.0
